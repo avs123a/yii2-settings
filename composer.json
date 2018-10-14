@@ -1,6 +1,6 @@
 {
-    "name": "pheme/yii2-settings",
-    "description": "Yii2 Database settings",
+    "name": "avs123a/yii2-settings",
+    "description": "Yii2 Database settings (Fork of phemellc)",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
@@ -10,8 +10,8 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Aris Karageorgos",
-            "email": "aris@phe.me"
+            "name": "Anton Sanzharovskyi",
+            "email": "av100san98@gmail.com"
         }
     ],
     "require": {
